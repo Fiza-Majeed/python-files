@@ -1,0 +1,4 @@
+ ```
+ py -m pip install numpy
+ (this command used to install numpy)
+ ```
